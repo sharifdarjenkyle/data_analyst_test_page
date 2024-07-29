@@ -1,3 +1,1 @@
 streamlit
-stream_option_menu
-firebase_admin
